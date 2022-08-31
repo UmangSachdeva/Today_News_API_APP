@@ -1,0 +1,10 @@
+.heading-Headline {
+  font-family: "PT Serif", serif;
+  font-weight: 600;
+  margin-bottom: -12px;
+}
+
+.container-heading {
+  border-bottom: 12px solid #ff9169;
+  width: fit-content;
+}

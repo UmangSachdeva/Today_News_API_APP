@@ -1,0 +1,44 @@
+.image-container {
+  height: 220px;
+  border-radius: 8px;
+  background-size: cover;
+}
+
+.card-title {
+  font-family: "PT Serif", serif;
+  color: #2c2d43;
+  font-weight: 600;
+}
+
+.card-text {
+  font-family: "Exo 2", sans-serif;
+  color: #2c2d43;
+}
+
+.card {
+  border: none;
+  background-color: transparent;
+}
+
+@media (min-width: 315px) and (max-width: 435px) {
+  .navbar {
+    margin: 0 !important;
+    padding: 14px;
+  }
+
+  .search-box {
+    width: 100%;
+  }
+
+  .container-fluid {
+    flex-direction: column !important;
+  }
+
+  .navbar-brand {
+    width: 100%;
+  }
+
+  .container-heading {
+    margin: 20px 15px !important;
+  }
+}

@@ -1,0 +1,55 @@
+body {
+  background-color: #f6f4f0;
+  color: #2c2d43 !important;
+  font-family: "Nunito", sans-serif;
+}
+
+.navbar {
+  margin: 0px 91px !important;
+}
+
+.btn-custom-transparent,
+.btn-custom-transparent:hover {
+  background-color: transparent;
+  border: none;
+}
+
+.btn-custom-signin {
+  background-color: transparent;
+  border: none;
+  color: #2c2d43;
+  font-family: "Nunito", sans-serif;
+}
+
+.btn-custom-subscribe {
+  background-color: #2c2d43;
+  color: #f6f4f0;
+  border: none;
+  font-family: "Nunito", sans-serif;
+  line-height: 34px;
+}
+
+.navbar-brand {
+  text-align: center;
+  font-size: 50px;
+  width: 60%;
+  color: #2c2d43;
+}
+
+.form-control,
+.form-control:focus {
+  border: none !important;
+  border-color: transparent !important;
+  box-shadow: none;
+  background-color: #f6f4f0;
+}
+
+.container-fluid {
+  justify-content: space-evenly !important;
+  font-family: "Abril Fatface", cursive;
+}
+
+.search-box {
+  width: 30%;
+  border: 2px solid black;
+}
